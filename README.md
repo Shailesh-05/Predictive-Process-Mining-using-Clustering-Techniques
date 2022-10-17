@@ -1,4 +1,4 @@
-# Predictive-Data-Mining-using-Clustering-Techniques
+# Predictive-Process-Mining-using-Clustering-Techniques
 Built a hybrid framework of clustering and supervised algorithm for classifying the process data of patients in a hospital.
 ->Created a tool for automatically labelling process data of patients in a hospital using a set of Linear Temporal Logic rules.
 ->Applied Gaussian Mixture Model & DBSCAN resp. for clustering data into similar groups after proper data pre-processing.
